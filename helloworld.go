@@ -10,4 +10,6 @@ func main() {
 	line comment */
 
 	variables()
+	conditions()
+	loops()
 }
