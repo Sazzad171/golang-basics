@@ -13,4 +13,6 @@ func main() {
 	conditions()
 	loops()
 	slices()
+	functions()
+	structures()
 }
